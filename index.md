@@ -3,32 +3,29 @@ layout: home
 
 ---
 <div class="wrapper" markdown="0"><div class="footer-col-wrapper">
-<div class="footer-col two-col-1">
+  <div class="footer-col two-col-1">
     <ul class="contact-list">
-        <li><b>Prof. Tim Wood</b></li>
+        <li><a href="http://faculty.cs.gwu.edu/timwood/"><b>Prof. Tim Wood</b></a></li>
         <li><a href="mailto:timwood@gwu.edu">timwood@gwu.edu</a></li>
         <li>Office Hours: TBD, SEH 4580</li>
-        <li>Class: Wednesdays 3:30-6PM in Tompkins 405</li>
+        <li>Class: Wednesdays 12:45-3:15PM in Tompkins 402</li>
     </ul>
-</div>
-<div class="footer-col two-col-2">
-    <ul class="contact-list">
-        <li>TBD</li>
-        <li><a href="mailto:">TBD</a></li>
-        <li>Office Hours: TBD</li>
-        <li>Labs: Mondays 2:10-3:20 and 9-10:10AM in SEH 4040</li>
-    </ul>
-    </div>
+  </div>
 </div></div>
 
+## Course Overview
 
-> In this course, students will learn how to write object-oriented code using Java. Concepts will focus on object-oriented thinking, software composition, inheritance and polymorphism, and design principles. Programming techniques, assignments and lab exercises will focus on Java, specifically, the language and its core libraries. The course will be conducted lab-style with a mix of lecture, lab assignments and projects. The course will also cover an elementary introduction to the C programming language.
+<blockquote>
+In this course, students will learn the methodology behind experimental research in computer science. The course will cover topics such as planning a new research project, designing experiments, enabling repeatable research, and effectively presenting your results. It will also provide practice with the four skills critical to being an effective researcher: reading, writing, speaking, and thinking creatively.
 
+*Registration is restricted to CS Ph.D. students*, but some masters or undergraduate students actively engaged in a research project may be allowed to take the course with the approval of their research advisor and the instructor. Students *must* already be involved in a research project before the start of the course.  *New Ph.D. students are particularly encouraged to take the course.* Ph.D. students from related disciplines such as ECE may be considered if space allows.
+
+</blockquote>
 
 ## Announcements ##
 - This website is under construction.
 
-## Schedule  ##
+<!-- ## Schedule  ##
 
 <div style="font-size:90%">
 
@@ -51,4 +48,4 @@ layout: home
 | Week 15 |  |
 | Week 16 |  |
 
-</div>
+</div> -->
