@@ -27,16 +27,16 @@ In this course, students will learn the methodology behind experimental research
 
 <div style="font-size:90%">
 
-| Week 1 | Into to Research Methods <br> Reading Papers   |
-| Week 2 | Computer Science as Science <br> Selecting Research Projects <br> **DUE:** Read Loehle (in Zotero) |
-| Week 3 | Behavior, Environment, and Task <br> All About Papers |
-| Week 4 | Why Science is Hard  |
-| Week 5 | Experimental Design  |
-| Week 6 | Data Analysis |
-| Week 7 | Hypothesis Testing and Statistics |
+| *Week 1* <br> Wed. Jan 16 | [Into to Research Methods and Reading Papers](slides/1-overview.pdf)   |
+| *Week 2* <br> Wed. Jan 23 | Computer Science as Science and Selecting Research Projects <br> **DUE:** Read [Loehle's paper on creativity](/papers/creativity-loehle.pdf) and [take this survey](https://goo.gl/forms/gBMKOhvmgnv2ej9U2)  |
+| *Week 3* <br> Wed. Jan 30 | Behavior, Environment, and Task <br> All About Papers |
+| *Week 4* | Why Science is Hard  |
+| *Week 5* | Experimental Design  |
+| *Week 6* | Data Analysis |
+| *Week 7* | Hypothesis Testing and Statistics |
 | ...    | ... |
-| Week X | Writing Well |
-| Week Y | Giving Good Talks |
-| Week Z | Your Future as a Researcher  |
+| *Week X* | Writing Well |
+| *Week Y* | Giving Good Talks |
+| *Week Z* | Your Future as a Researcher  |
 
 </div>
