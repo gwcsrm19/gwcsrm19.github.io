@@ -9,6 +9,8 @@ permalink: /project/
 ## Report 0: Propose Ideas
 Briefly describe three small project ideas by writing one paragraph per idea.  The proposed projects should be small enough to ensure completion within the remainder of the semester. Notably, the project should not require substantial implementation -- they should be based on evaluating some algorithm, system, or model that already exists.  The goal of the project should be to understand the behavior (e.g., performance, accuracy, cost, etc) of some system or algorithm under different conditions.  Your description should briefly describe the idea and explain what aspect you will evaluate for your project.  You should also briefly detail the what existing code/benchmarks/data sets you will be able to make use of, and what you will need to construct yourself (hopefully not much).
 
+If you have a strong preference to work on one of the three proposed ideas, then make a note of that in your writeup. However, you should still provide 3 possible ideas, perhaps listing out topics you might explore in future work.
+
 Your report should be 1-2 pages in length, single spaced one-column format and submitted as PDF.
 
 *Lost?* Try talking with your advisor for possible ideas. Don't try to propose too large a project - instead, break a big project down into pieces and discuss a few of those as different ideas.
