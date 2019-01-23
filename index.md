@@ -28,8 +28,8 @@ In this course, students will learn the methodology behind experimental research
 <div style="font-size:90%">
 
 | *Week 1* <br> Wed. Jan 16 | [Into to Research Methods and Reading Papers](slides/1-overview.pdf)   |
-| *Week 2* <br> Wed. Jan 23 | Computer Science as Science and Selecting Research Projects <br> **DUE:** Read [Loehle's paper on creativity](/papers/creativity-loehle.pdf) and [take this survey](https://goo.gl/forms/gBMKOhvmgnv2ej9U2)  |
-| *Week 3* <br> Wed. Jan 30 | Behavior, Environment, and Task <br> All About Papers |
+| *Week 2* <br> Wed. Jan 23 | Selecting Research Projects and Computer Science as Science <br> **DUE Before class:** Read [Loehle's paper on creativity](/papers/creativity-loehle.pdf) and [take this survey](https://goo.gl/forms/gBMKOhvmgnv2ej9U2)  |
+| *Week 3* <br> Wed. Jan 30 | All About Papers, Conferences, and Grants <br> **DUE Sunday 1/27:** [Project Report 0](/project/) |
 | *Week 4* | Why Science is Hard  |
 | *Week 5* | Experimental Design  |
 | *Week 6* | Data Analysis |
