@@ -20,7 +20,7 @@ In this course, students will learn the methodology behind experimental research
 </blockquote>
 
 ## Announcements ##
-- This website is under construction.
+- You should have gotten an email inviting you to our [Zotero](https://www.zotero.org) group. Install the program and join the group!
 
 ## Schedule  ##
 **Note:** This schedule may not include all [project](/project/) deadlines!
