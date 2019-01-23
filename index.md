@@ -23,7 +23,7 @@ In this course, students will learn the methodology behind experimental research
 - This website is under construction.
 
 ## Schedule  ##
-**Note:** This schedule does not include any [project](/project/) deadlines!
+**Note:** This schedule may not include all [project](/project/) deadlines!
 
 <div style="font-size:90%">
 
