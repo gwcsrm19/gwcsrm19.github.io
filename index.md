@@ -8,7 +8,7 @@ layout: home
         <li><a href="http://faculty.cs.gwu.edu/timwood/"><b>Prof. Tim Wood</b></a></li>
         <li><a href="mailto:timwood@gwu.edu">timwood@gwu.edu</a></li>
         <li>Office Hours: By Appointment, SEH 4580</li>
-        <li>Class: Wednesdays 12:45-3:15PM in Tompkins 402</li>
+        <li>Class: Wednesdays 12:45-3:15PM in Tompkins 310</li>
     </ul>
   </div>
 </div></div>
