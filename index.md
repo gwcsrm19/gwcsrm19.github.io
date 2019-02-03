@@ -28,10 +28,10 @@ In this course, students will learn the methodology behind experimental research
 <div style="font-size:90%">
 
 | *Week 1* <br> Wed. Jan 16 | [Into to Research Methods and Reading Papers](/slides/1-overview.pdf)   |
-| *Week 2* <br> Wed. Jan 23 | [Selecting Research Projects](/slides/2-problems.pdf) and [Computer Science as Science](/slides/3-science.pdf) <br> **DUE Before class:** Read [Loehle's paper on creativity](/papers/creativity-loehle.pdf) and [take this survey](https://goo.gl/forms/gBMKOhvmgnv2ej9U2)  |
-| *Week 3* <br> Wed. Jan 30 | All About Papers, Conferences, and Grants <br> **DUE Sunday 1/27:** [Project Report 0](/project/) |
-| *Week 4* | Why Science is Hard  |
-| *Week 5* | Experimental Design  |
+| *Week 2* <br> Wed. Jan 23 | [Selecting Research Projects](/slides/2-problems.pdf) and [Computer Science as Science](/slides/3-science.pdf) <br> *DUE Before class:* Read [Loehle's paper on creativity](/papers/creativity-loehle.pdf) and [take this survey](https://goo.gl/forms/gBMKOhvmgnv2ej9U2)  |
+| *Week 3* <br> Wed. Jan 30 | [All About Papers and Conferences](/slides/4-papers-conferences.pdf) <br> *DUE Sunday 1/27:* [Project Report 0](/project/) |
+| *Week 4* <br> Wed. Feb 6 | Why Science is Hard  |
+| *Week 5* <br> Wed. Feb 13 | Experimental Design <br> *DUE Before class:* Review your video and [Project Report 1](/project/) |
 | *Week 6* | Data Analysis |
 | *Week 7* | Hypothesis Testing and Statistics |
 | ...    | ... |
@@ -40,3 +40,6 @@ In this course, students will learn the methodology behind experimental research
 | *Week Z* | Your Future as a Researcher  |
 
 </div>
+
+## Acknowledgements
+This course includes materials drawn from similar courses by [ David Jensen](https://people.cs.umass.edu/~jensen/courses/index.html), UMass and [Omprakash Gnawali](http://www2.cs.uh.edu/~gnawali/courses/cosc6321-s19/), University of Houston.

@@ -20,15 +20,15 @@ Your report should be 1-2 pages in length, single spaced one-column format and s
 ---
 
 ## Report 1: Research Description
-A "solution" (i.e., a system, an algorithm, etc.) is affected by its inputs and its environment.  As the researcher, you control the solution, a user would define the inputs, and the environment is typically outside either of your control. This report should break the proposed research down into these categories and explain each of them.
+A "solution" (i.e., a system, an algorithm, etc.) is affected by its inputs and its environment.  As the researcher, you control the solution, a user would define the inputs, and the environment is typically outside either of your control. This report should first present the overall problem you are trying to solve, and then break the proposed research down into these categories and explain each of them.
 
 You should describe your solution in enough detail that the reader can understand the high level design.  The reader does not need sufficient information to *implement* the solution. Your report should also provide the basic background information needed so that a CS graduate student not in your research area can understand the context of the problem and solution.  Include a section describing the current state of the solution's implementation and note any aspects that you will need to complete before being able to do your evaluation.
 
 Describe the aspects of the environment and task which are under your control and which you will not be able to modify. Identify the "performance" metrics (speed, accuracy, cost, etc) that you will evaluate. Note any other metrics that may provide insights into the effectiveness of the solution.
 
-Your report should be 3-4 pages in length, single spaced one-column format, with additional space for diagrams and tables. You should include references as appropriate.
+Your report should be 3-4 pages in length, double spaced one-column format, with additional space for diagrams and tables. You should include references as appropriate.
 
-**Due Date:** Sunday February 10th at 11:59PM
+**Due Date:** Tuesday February 12th at 11:59PM
 
 ---
 
