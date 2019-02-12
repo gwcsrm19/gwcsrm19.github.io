@@ -31,13 +31,18 @@ In this course, students will learn the methodology behind experimental research
 | *Week 2* <br> Wed. Jan 23 | [Selecting Research Projects](/slides/2-problems.pdf) and [Computer Science as Science](/slides/3-science.pdf) <br> *DUE Before class:* Read [Loehle's paper on creativity](/papers/creativity-loehle.pdf) and [take this survey](https://goo.gl/forms/gBMKOhvmgnv2ej9U2)  |
 | *Week 3* <br> Wed. Jan 30 | [All About Papers and Conferences](/slides/4-papers-conferences.pdf) <br> *DUE Sunday 1/27:* [Project Report 0](/project/) |
 | *Week 4* <br> Wed. Feb 6 | [Why Science is Hard](/slides/5-science-is-hard.pdf)  |
-| *Week 5* <br> Wed. Feb 13 | Writing Goodly <br> *DUE Before class:* Review your video and [Project Report 1](/project/) |
-| *Week 6* | Experimental Design, Data Analysis |
-| *Week 7* | Hypothesis Testing and Statistics |
-| ...    | ... |
-| *Week X* | Writing Well |
-| *Week Y* | Giving Good Talks |
-| *Week Z* | Your Future as a Researcher  |
+| *Week 5* <br> Wed. Feb 13 | Writing <del>Goodly</del> Well <br> *DUE Before class:* <del>Review your video</del> and [Project Report 1](/project/) |
+| *Week 6* <br> Wed. Feb 20 | No Class - attend CS colloquiums! |
+| *Week 7* <br> Wed. Feb 27 | Presenting Clearly |
+| *Week 8* <br> Wed. March 6 | Experimental Design |
+| *Week 9* <br> Wed. March 13 | No Class - Spring Break |
+| *Week 10* <br> Wed. March 20 | Statistics - Guest Lecture by Dr. Pablo Frank Bolton |
+| *Week 11* <br> Wed. March 27 | TBD |
+| *Week 12* <br> Wed. April 3 | TBD |
+| *Week 13* <br> Wed. April 10 | TBD |
+| *Week 14* <br> Wed. April 17 | TBD |
+| *Week 15* <br> Wed. April 24 | TBD |
+| *Week 16* <br> Wed. May 1 | Your Future as a Researcher |
 
 </div>
 
