@@ -39,7 +39,7 @@ For this report you must propose a set of experiments that will evaluate your so
 
 Your report should be 2-3 pages in length, single spaced one-column format, with additional space for diagrams and tables. The experimental plans in the document do not limit what you evaluate over the coming weeks--you are free to modify your design based on what you discover.
 
-**Due Date:** Sunday February 24th at 11:59PM
+**Due Date:** Tuesday March 5th at 11:59PM
 
 ---
 
@@ -52,7 +52,7 @@ The report should first provide background for the problem domain, and then anal
 
 This report should be 2-3 pages in length, single spaced one-column format, with additional space for diagrams and tables. You should include references.
 
-**Due Date:** Sunday March 10th at 11:59PM
+**Due Date:** Tuesday March 19th at 11:59PM
 
 ---
 
@@ -61,7 +61,7 @@ This report should analyze the results of your experiments.  Beyond simply showi
 
 You should make an effort to present your results in a visually clear and compelling fashion.  Avoid misleading graphs and ensure that they are accurately representing both the strengths and weaknesses of your solution.
 
-**Due Date:** Sunday March 24th at 11:59PM
+**Due Date:** Tuesday March 26th at 11:59PM
 
 ---
 
