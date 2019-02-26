@@ -27,18 +27,18 @@ In this course, students will learn the methodology behind experimental research
 
 <div style="font-size:90%">
 
-| *Week 1* <br> Wed. Jan 16 | [Into to Research Methods and Reading Papers](/slides/1-overview.pdf)   |
+| *Week 1* <br> Wed. Jan 16 | [Intro to Research Methods and Reading Papers](/slides/1-overview.pdf)   |
 | *Week 2* <br> Wed. Jan 23 | [Selecting Research Projects](/slides/2-problems.pdf) and [Computer Science as Science](/slides/3-science.pdf) <br> *DUE before class:* Read [Loehle's paper on creativity](/papers/creativity-loehle.pdf) and [take this survey](https://goo.gl/forms/gBMKOhvmgnv2ej9U2)  |
 | *Week 3* <br> Wed. Jan 30 | [All About Papers and Conferences](/slides/4-papers-conferences.pdf) <br> *DUE Sunday 1/27:* [Project Report 0](/project/) |
 | *Week 4* <br> Wed. Feb 6 | [Why Science is Hard](/slides/5-science-is-hard.pdf)  |
 | *Week 5* <br> Wed. Feb 13 | [Writing Well](/slides/6-stories.pdf) - [Abstracts](/slides/abstracts.pdf) <br> *DUE before class:* <del>Review your video</del> and [Project Report 1](/project/) |
 | *Week 6* <br> Wed. Feb 20 | No Class - attend CS colloquiums! |
 | *Week 7* <br> Wed. Feb 27 | Experimental Design  |
-| *Week 8* <br> Wed. March 6 | Presenting Clearly <br> *DUE before class:* [Project Report 2](/project/)  |
+| *Week 8* <br> Wed. March 6 | Presenting Clearly? <br> *DUE before class:* [Project Report 2](/project/)  |
 | *Week 9* <br> Wed. March 13 | No Class - Spring Break |
-| *Week 10* <br> Wed. March 20 | Tactical Decision Making <br> *DUE before class:* [Project Report 3](/project/) |
-| *Week 11* <br> Wed. March 27 | Statistics - Guest Lecture by Dr. Pablo Frank Bolton <br> *DUE before class:* [Project Report 4](/project/) |
-| *Week 12* <br> Wed. April 3 | Personal Productivity |
+| *Week 10* <br> Wed. March 20 | Presenting Clearly? <br> *DUE before class:* [Project Report 3](/project/) |
+| *Week 11* <br> Wed. March 27 | Statistics - Guest Lecture by Dr. Pablo Frank Bolton |
+| *Week 12* <br> Wed. April 3 | Personal Productivity <br> *DUE before class:* [Project Report 4](/project/) |
 | *Week 13* <br> Wed. April 10 | Data Analysis and Visualization |
 | *Week 14* <br> Wed. April 17 | TBD |
 | *Week 15* <br> Wed. April 24 | TBD |
