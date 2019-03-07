@@ -36,7 +36,7 @@ In this course, students will learn the methodology behind experimental research
 | *Week 7* <br> Wed. Feb 27 | [Experimental Design](/slides/7-exp-design.pdf)  |
 | *Week 8* <br> Wed. March 6 | Presenting Clearly? <br> *DUE before class:* [Project Report 2](/project/)  |
 | *Week 9* <br> Wed. March 13 | No Class - Spring Break |
-| *Week 10* <br> Wed. March 20 | Presenting Clearly? <br> *DUE before class:* [Project Report 3](/project/) |
+| *Week 10* <br> Wed. March 20 | [Presenting Clearly](/slides/8-presenting.pdf) <br> *DUE before class:* [Project Report 3](/project/) |
 | *Week 11* <br> Wed. March 27 | Statistics - Guest Lecture by Dr. Pablo Frank Bolton |
 | *Week 12* <br> Wed. April 3 | Personal Productivity <br> *DUE before class:* [Project Report 4](/project/) |
 | *Week 13* <br> Wed. April 10 | Data Analysis and Visualization |
