@@ -52,7 +52,7 @@ The report should first provide background for the problem domain, and then anal
 
 This report should be 2-3 pages in length, single spaced one-column format, with additional space for diagrams and tables. You should include references.
 
-**Due Date:** Tuesday March 19th at 11:59PM
+**Due Date:** Wednesday March 27th before class
 
 ---
 
@@ -61,7 +61,7 @@ This report should analyze the results of your experiments.  Beyond simply showi
 
 You should make an effort to present your results in a visually clear and compelling fashion.  Avoid misleading graphs and ensure that they are accurately representing both the strengths and weaknesses of your solution.
 
-**Due Date:** Tuesday March 26th at 11:59PM
+**Due Date:** Wednesday April 10th before class
 
 ---
 
