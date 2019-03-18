@@ -34,7 +34,7 @@ In this course, students will learn the methodology behind experimental research
 | *Week 5* <br> Wed. Feb 13 | [Writing Well](/slides/6-stories.pdf) - [Abstracts](/slides/abstracts.pdf) <br> *DUE before class:* <del>Review your video</del> and [Project Report 1](/project/) |
 | *Week 6* <br> Wed. Feb 20 | No Class - attend CS colloquiums! |
 | *Week 7* <br> Wed. Feb 27 | [Experimental Design](/slides/7-exp-design.pdf)  |
-| *Week 8* <br> Wed. March 6 | Presenting Clearly? <br> *DUE before class:* [Project Report 2](/project/)  |
+| *Week 8* <br> Wed. March 6 |  [Presenting Clearly](/slides/8-presenting.pdf) <br> *DUE before class:* [Project Report 2](/project/)  |
 | *Week 9* <br> Wed. March 13 | No Class - Spring Break |
 | *Week 10* <br> Wed. March 20 | No Class - attend CS colloquiums! |
 | *Week 11* <br> Wed. March 27 | Statistics - Guest Lecture by Dr. Pablo Frank Bolton <br> *DUE before class:* [Project Report 3](/project/) |
