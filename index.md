@@ -39,7 +39,7 @@ In this course, students will learn the methodology behind experimental research
 | *Week 10* <br> Wed. March 20 | No Class - attend CS colloquiums! |
 | *Week 11* <br> Wed. March 27 | [Statistics](/slides/WhyStatistics.pdf) - Guest Lecture by Dr. Pablo Frank Bolton <br> *DUE before class:* [Project Report 3](/project/) |
 | *Week 12* <br> Wed. April 3 |  [Presenting Clearly](/slides/8-presenting.pdf)  |
-| *Week 13* <br> Wed. April 10 | [Research Recipes](/slides/9-recipes.pdf) and [Personal Productivity](/slides/9-time.pdf) <br> *DUE before class:* [Project Report 4](/project/) |
+| *Week 13* <br> Wed. April 10 | [Research Recipes](/slides/9-recipes.pdf), [Personal Productivity](/slides/9-time.pdf), and [behind the scenes of CS hiring](/slides/9-hiring.pdf) <br> *DUE before class:* [Project Report 4](/project/) |
 | *Week 14* <br> Wed. April 17 | Grant Writing |
 | *Week 15* <br> Wed. April 24 | TBD |
 | *Week 16* <br> Wed. May 1 | Your Future as a Researcher <br> *DUE before class:* [Final Report](/project/)|
