@@ -41,7 +41,7 @@ In this course, students will learn the methodology behind experimental research
 | *Week 12* <br> Wed. April 3 |  [Presenting Clearly](/slides/8-presenting.pdf)  |
 | *Week 13* <br> Wed. April 10 | [Research Recipes](/slides/9-recipes.pdf), [Personal Productivity](/slides/9-time.pdf), and [behind the scenes of CS hiring](/slides/9-hiring.pdf) <br> *DUE before class:* [Project Report 4](/project/) |
 | *Week 14* <br> Wed. April 17 | [Visualizing Your Research](/slides/10-visuals.pdf) and Grant Writing |
-| *Week 15* <br> Wed. April 24 | Grant Writing |
+| *Week 15* <br> Wed. April 24 | [Grant Writing](/slides/11-grants.pdf) |
 | *Week 16* <br> Sunday May 5 | *DUE 11:59PM:* [Final Report](/project/)|
 
 </div>
